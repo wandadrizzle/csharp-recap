@@ -1,0 +1,15 @@
+/home/runner/csharp-recap/sololearn/replit-csharp/bin/Debug/net6.0/replit-csharp
+/home/runner/csharp-recap/sololearn/replit-csharp/bin/Debug/net6.0/replit-csharp.deps.json
+/home/runner/csharp-recap/sololearn/replit-csharp/bin/Debug/net6.0/replit-csharp.runtimeconfig.json
+/home/runner/csharp-recap/sololearn/replit-csharp/bin/Debug/net6.0/replit-csharp.dll
+/home/runner/csharp-recap/sololearn/replit-csharp/bin/Debug/net6.0/replit-csharp.pdb
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.csproj.AssemblyReference.cache
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.AssemblyInfoInputs.cache
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.AssemblyInfo.cs
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.csproj.CoreCompileInputs.cache
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.dll
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/refint/replit-csharp.dll
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.pdb
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/replit-csharp.genruntimeconfig.cache
+/home/runner/csharp-recap/sololearn/replit-csharp/obj/Debug/net6.0/ref/replit-csharp.dll
