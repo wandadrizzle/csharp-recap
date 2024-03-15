@@ -18,8 +18,9 @@ for(int i = 0; i < names.Length; i++){
   Console.WriteLine(names[i] + " " + surnames[i]);
 }
 //multidimensional arrays RC
-Consol.WriteLine()
+Console.WriteLine();
 int[ , ] x = new int[3,4];
+int[,] someNums = { {2, 3}, {5, 6}, {4, 6} };
 for (int k = 0; k < 3; k++) {
   for (int j = 0; j < 2; j++) {
     Console.Write(someNums[k, j]+" ");
